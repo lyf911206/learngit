@@ -1,4 +1,8 @@
 5.22上午  南京联迪，建邺区新城科技园
 5.22下午  杭州三汇，软件大道新华汇
 5.23下午  玄谷，花神科技园
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
